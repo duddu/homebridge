@@ -7,10 +7,11 @@ All notable changes to `homebridge` will be documented in this file. This projec
 ### Changed
 
 - Updated dependencies (`hap-nodejs`)
+- Updated dependencies, fix `typedoc` generation
 
 ### Homebridge Dependencies
 
-- `hap-nodejs` @ `v0.12.2`
+- `hap-nodejs` @ `v0.12.3-beta.2`
 
 ## v1.8.2 (2024-05-16)
 
