@@ -2,6 +2,17 @@
 
 All notable changes to `homebridge` will be documented in this file. This project tries to adhere to [Semantic Versioning](http://semver.org/).
 
+## BETA
+
+### Changed
+
+- Updated dependencies, fix `typedoc` generation
+- Updated build workflow: added `lint-docs`
+
+### Homebridge Dependencies
+
+- `hap-nodejs` @ `v0.12.3-beta.2`
+
 ## v1.8.3 (2024-06-19)
 
 ### Changed
